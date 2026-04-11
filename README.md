@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Profile README — mufid0 -->
 
 <h1 align="center">hi, i'm mufid 👋</h1>
@@ -22,6 +20,7 @@ Hands-on AI/ML engineer with internship experience in building **data-driven sys
 - 💼 Ex-Intern @ **scaleFULL Technologies** (AI/ML) & **KasNet Technologies** (Data Analytics)
 - ☁️ **Microsoft Azure AZ-900 Certified**
 - 🤖 Interests: AI · Robotics · Autonomous Systems · NLP
+- 📚 Currently enrolled in **IIT Guwahati Daksh Gurukul × Masai Credit-Linked AI/ML Program**
 
 ---
 
@@ -112,11 +111,10 @@ Hands-on AI/ML engineer with internship experience in building **data-driven sys
   <a href="https://github.com/mufid0"><img src="https://img.shields.io/badge/GitHub-mufid0-181717?style=flat-square&logo=github"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-7C5CFC?style=flat-square&logo=vercel"/></a>
-  <a href="mailto:#"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#290a"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <em>/* always learning · always building · never stopping */</em>
-</p>
+  <em>/* always learning · always building · neve
