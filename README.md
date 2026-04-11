@@ -87,8 +87,8 @@ Results-driven **AI/ML Engineer** with hands-on experience in building **scalabl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mufid0&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mufid0&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mufid0&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=mufid0&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
 
 ---
@@ -97,9 +97,9 @@ Results-driven **AI/ML Engineer** with hands-on experience in building **scalabl
 
 <p>
   <a href="https://github.com/mufid0"><img src="https://img.shields.io/badge/GitHub-mufid0-181717?style=flat-square&logo=github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/mufid-panhalkar-ba5720354/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-7C5CFC?style=flat-square&logo=vercel"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mufidp1011@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
