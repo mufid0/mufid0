@@ -92,24 +92,12 @@ Hands-on AI/ML engineer with internship experience in building **data-driven sys
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mufid0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c5cfc&icon_color=7c5cfc" alt="mufid0 GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufid0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c5cfc" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mufid0&theme=tokyonight&hide_border=true&background=0a0a0f&ring=7c5cfc&fire=7c5cfc&currStreakLabel=7c5cfc" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 🔗 Connect with Me
 
 <p>
   <a href="https://github.com/mufid0"><img src="https://img.shields.io/badge/GitHub-mufid0-181717?style=flat-square&logo=github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/mufid-panhalkar-ba5720354/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-7C5CFC?style=flat-square&logo=vercel"/></a>
   <a href="/cdn-cgi/l/email-protection#290a"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
