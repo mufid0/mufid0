@@ -104,5 +104,5 @@ Results-driven **AI/ML Engineer** with hands-on experience in building **scalabl
 ---
 
 <p align="center">
-  <em>Code. Scale. Optimize. Repeat.</em>
+  <em>Building scalable AI-driven systems with clean, efficient code.</em>
 </p>
