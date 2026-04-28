@@ -17,7 +17,7 @@
 Results-driven **AI/ML Engineer** with hands-on experience in building **scalable machine learning systems**, **data pipelines**, and **analytics dashboards**. Strong foundation in **Data Structures, Algorithms, and system-level thinking**, with a focus on writing **clean, efficient, and production-ready code**.
 
 - 🎓 B.E. Computer Engineering @ **Sinhgad Academy of Engineering, Pune** (2022–2026)  
-- 💼 AI/ML Intern @ **scaleFULL Technologies** | Data Analyst Intern @ **KasNet Technologies**  
+- 💼 AI/ML Intern @ **scaleFULL Technologies** | Python Developer Intern @ **ClinchEdge Global Services**  
 - ☁️ **Microsoft Azure AZ-900 Certified**  
 - 🤖 Interests: AI · Machine Learning · Backend Systems · NLP  
 - 📚 Currently advancing in **AI/ML specialization (IIT Guwahati × Masai Program)**  
@@ -60,10 +60,10 @@ Results-driven **AI/ML Engineer** with hands-on experience in building **scalabl
 - Built **data preprocessing pipelines** improving model efficiency  
 - Contributed to **deployment-ready AI solutions**  
 
-**📊 Data Analyst Intern — KasNet Technologies Pvt. Ltd.** *(Feb 2025 – Apr 2025)*  
-- Designed **interactive dashboards in Power BI** for business insights  
-- Performed **data cleaning, transformation, and visualization**  
-- Worked with **Azure-based data workflows**  
+**📊 Python Developer Intern — ClinchEdge Global Services** *(April 2026 – Present)*   
+-	Developed Python automation scripts and backend tools 
+-	Wrote modular, maintainable code and optimized performance 
+-	Worked with Git-based collaborative workflows 
 
 ---
 
