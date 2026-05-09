@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for mufid0 -->
 
-<h1 align="center">Hi, I'm Mufid Panhalkar 👋</h1>
+<h1 align="center">Hi, I'm Mufid 👋</h1>
 
 <p align="center">
   <em>Applied AI Engineer · LLM Systems · RAG Architectures</em>
